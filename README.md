@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/564x/41/b1/ac/41b1ac322475561edb4ba45ec6b0bfce.jpg" style="width:100%; height:150px; object-fit:contain;"/></p>
+<p align="center"><img src="https://i.pinimg.com/564x/41/b1/ac/41b1ac322475561edb4ba45ec6b0bfce.jpg" style="width:100%; height:150px; object-fit:cover;"/></p>
 <h1>Nabil Gathfan Putra M.</h1>
 
 <p align="justify">
