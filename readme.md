@@ -9,7 +9,7 @@
     💻 Mobile Dev
     📖 Front End Dev • Data Structure
     🎮 Music • Pokemon • Code • Art
-    🍚 Espeon Trainer! 
+    ⛔ Espeon Trainer! 
 </pre>
 </div>
 <img src="assets/espeon_sprite.gif" width="25%" align="center"/>
