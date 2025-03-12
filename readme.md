@@ -12,6 +12,6 @@
     🍚 Espeon Trainer! 
 </pre>
 </div>
-<img src="assets/espeon.gif" width="25.5%" align="right"/>
+<img src="assets/espeon_sprite.gif" width="25.5%" align="right"/>
 
 </div>
